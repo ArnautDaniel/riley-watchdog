@@ -1,0 +1,1 @@
+./latexprog $1
